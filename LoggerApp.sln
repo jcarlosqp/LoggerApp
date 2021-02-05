@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerApp", "LoggerApp\LoggerApp.csproj", "{446C9EA9-7E62-4D10-BEC0-86A15C060EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogPluginContract", "LogPluginContract\LogPluginContract.csproj", "{3AC5B7AA-D4D5-4467-A96C-6EE3AE71639F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loggers", "Loggers", "{0866F734-7974-4ED0-A642-245BA01B1FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLogger", "ConsoleLogger\ConsoleLogger.csproj", "{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLogger", "FileLogger\FileLogger.csproj", "{881B012E-8A43-464D-AFC8-0C7DF9F3F768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLogger", "DatabaseLogger\DatabaseLogger.csproj", "{FCEA8241-59CC-4118-AAEE-E42D8EB8C890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLogger.Tests", "DatabaseLogger.Tests\DatabaseLogger.Tests.csproj", "{4732B22F-EA45-4E5F-963D-780437329A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446C9EA9-7E62-4D10-BEC0-86A15C060EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446C9EA9-7E62-4D10-BEC0-86A15C060EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446C9EA9-7E62-4D10-BEC0-86A15C060EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446C9EA9-7E62-4D10-BEC0-86A15C060EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC5B7AA-D4D5-4467-A96C-6EE3AE71639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC5B7AA-D4D5-4467-A96C-6EE3AE71639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC5B7AA-D4D5-4467-A96C-6EE3AE71639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC5B7AA-D4D5-4467-A96C-6EE3AE71639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881B012E-8A43-464D-AFC8-0C7DF9F3F768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881B012E-8A43-464D-AFC8-0C7DF9F3F768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881B012E-8A43-464D-AFC8-0C7DF9F3F768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881B012E-8A43-464D-AFC8-0C7DF9F3F768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEA8241-59CC-4118-AAEE-E42D8EB8C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEA8241-59CC-4118-AAEE-E42D8EB8C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEA8241-59CC-4118-AAEE-E42D8EB8C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEA8241-59CC-4118-AAEE-E42D8EB8C890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4732B22F-EA45-4E5F-963D-780437329A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4732B22F-EA45-4E5F-963D-780437329A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4732B22F-EA45-4E5F-963D-780437329A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4732B22F-EA45-4E5F-963D-780437329A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{720CAA2C-F2AA-4C0F-AA2F-EBD89BDCBEA6} = {0866F734-7974-4ED0-A642-245BA01B1FCA}
+		{881B012E-8A43-464D-AFC8-0C7DF9F3F768} = {0866F734-7974-4ED0-A642-245BA01B1FCA}
+		{FCEA8241-59CC-4118-AAEE-E42D8EB8C890} = {0866F734-7974-4ED0-A642-245BA01B1FCA}
+		{4732B22F-EA45-4E5F-963D-780437329A61} = {0866F734-7974-4ED0-A642-245BA01B1FCA}
+	EndGlobalSection
+EndGlobal

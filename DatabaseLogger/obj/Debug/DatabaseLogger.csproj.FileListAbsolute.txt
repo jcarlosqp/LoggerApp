@@ -1,0 +1,13 @@
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\bin\Debug\DatabaseLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\bin\Debug\DatabaseLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\obj\Debug\DatabaseLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\obj\Debug\DatabaseLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\obj\Debug\DatabaseLogger.csprojResolveAssemblyReference.cache
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\bin\Debug\DatabaseLogger.dll.config
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\bin\Debug\LogPluginContract.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\DatabaseLogger\bin\Debug\LogPluginContract.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\Database\LogDB.mdf
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\Database\LogDB_log.ldf
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\DatabaseLogger.dll.config
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\DatabaseLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\DatabaseLogger.pdb

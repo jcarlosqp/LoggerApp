@@ -1,0 +1,10 @@
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\bin\Debug\FileLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\bin\Debug\FileLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\bin\Debug\LogPluginContract.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\bin\Debug\LogPluginContract.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\obj\Debug\FileLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\obj\Debug\FileLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\FileLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\FileLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\FileLogger.dll.config
+F:\Programming\test_Belatrix\proyecto\LoggerApp\FileLogger\obj\Debug\FileLogger.csprojResolveAssemblyReference.cache

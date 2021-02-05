@@ -1,0 +1,4 @@
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LogPluginContract\bin\Debug\LogPluginContract.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LogPluginContract\bin\Debug\LogPluginContract.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LogPluginContract\obj\Debug\LogPluginContract.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LogPluginContract\obj\Debug\LogPluginContract.pdb

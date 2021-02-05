@@ -1,0 +1,5 @@
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\ConsoleLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\Plugins\ConsoleLogger.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\ConsoleLogger\obj\Debug\ConsoleLogger.csprojResolveAssemblyReference.cache
+F:\Programming\test_Belatrix\proyecto\LoggerApp\ConsoleLogger\obj\Debug\ConsoleLogger.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\ConsoleLogger\obj\Debug\ConsoleLogger.pdb

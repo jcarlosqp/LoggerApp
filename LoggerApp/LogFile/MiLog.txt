@@ -1,0 +1,63 @@
+
+[Hora: 02/07/2017 1:30:10] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 1:34:00] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 1:34:10] - Mensage: Intento de LOGGER #2 | Tipo: Success
+
+
+[Hora: 02/07/2017 2:44:26] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 2:53:44] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:01:46] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:03:20] - Mensage: Intento de LOGGER #2 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:03:36] - Mensage: Intento de LOGGER #3 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:04:23] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:04:29] - Mensage: Intento de LOGGER #2 | Tipo: Success
+
+
+[Hora: 02/07/2017 10:15:20] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 11:21:31] - Mensage: Intento de LOGGER #1 | Tipo: Success
+
+
+[Hora: 02/07/2017 16:56:54] - Mensage: prueba uno1 | Tipo: Success
+
+
+[Hora: 02/07/2017 17:05:44] - Mensage: prueba 333 | Tipo: Error
+
+
+[Hora: 02/07/2017 17:11:01] - Mensage: PRUEBA 4 | Tipo: Success
+
+
+[Hora: 02/07/2017 17:15:59] - Mensage: prueba 5 | Tipo: Warning
+
+
+[Hora: 02/07/2017 19:09:18] - Mensage: Prueba 7 | Tipo: Success
+
+
+[Hora: 02/07/2017 19:13:14] - Mensage: prueba nro. 8 | Tipo: Warning
+
+
+[Hora: 02/07/2017 19:20:46] - Mensage: prueba 9 | Tipo: Error
+
+
+[Hora: 02/07/2017 19:26:14] - Mensage: prueba final 10 | Tipo: Success
+
+
+[Hora: 02/07/2017 19:26:58] - Mensage: prueba final 11 | Tipo: Warning
+

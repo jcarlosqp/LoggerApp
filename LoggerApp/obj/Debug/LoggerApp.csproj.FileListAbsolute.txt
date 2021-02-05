@@ -1,0 +1,8 @@
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\bin\Debug\LoggerApp.exe.config
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\bin\Debug\LoggerApp.exe
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\bin\Debug\LoggerApp.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\bin\Debug\LogPluginContract.dll
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\bin\Debug\LogPluginContract.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\obj\Debug\LoggerApp.exe
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\obj\Debug\LoggerApp.pdb
+F:\Programming\test_Belatrix\proyecto\LoggerApp\LoggerApp\obj\Debug\LoggerApp.csprojResolveAssemblyReference.cache
